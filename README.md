@@ -2,6 +2,10 @@
 
 A standalone CLI that serves Cursor's API as an OpenAI-compatible endpoint.
 
+## Sponsor
+
+[ChatWise](https://chatwise.app?ref=cursor-openai-api) - All-in-one agentic chat app.
+
 ## Features
 
 - OAuth authentication with Cursor
