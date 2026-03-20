@@ -10,6 +10,15 @@ A standalone CLI that serves Cursor's API as an OpenAI-compatible endpoint.
 - Tool calling support
 - Streaming responses
 
+## NPM
+
+```bash
+npm i -g cursor-openai-api
+
+cursor-openai-api login
+cursor-openai-api serve
+```
+
 ## Docker
 
 ```bash
