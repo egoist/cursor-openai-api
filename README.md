@@ -125,3 +125,7 @@ Push a tag to trigger the Docker build:
 git tag v0.0.1
 git push origin v0.0.1
 ```
+
+## Prior art
+
+This project is modified from https://github.com/ephraimduncan/opencode-cursor
